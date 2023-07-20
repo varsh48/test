@@ -1,1 +1,0 @@
-Git amend provides a convenient way to fix small mistakes or omissions in your commits without having to create a new commit altogether. It helps maintain a clean commit history by allowing you to make adjustments without cluttering the repository with unnecessary commits.
